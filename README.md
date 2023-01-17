@@ -7,8 +7,13 @@ These are some interesting projects implemented in python modified from various 
    * The output may come pixelated and some of the other features may get replaced due to bad lighting and/or 
      poor selection of the cloth. (Select matte finish cloth without reflection.)
      
-1. Real Time Face Detection
+2. Real Time Face Detection
    * Used face_recognition model which is a pretrained model available in python modules. You can install it by : pip3 install face_recognition
    * Used open cv just for capturing the live feed and display the result in live . You can just use the model and input an image.
      
-     
+3. Pong
+  * Pong Game.
+  
+4. Connect 4 
+  * Multi player connect 4 game.
+  * Play against computer mode.
