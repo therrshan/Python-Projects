@@ -17,3 +17,9 @@ These are some interesting projects implemented in python modified from various 
 4. Connect 4 
   * Multi player connect 4 game.
   * Play against computer mode.
+  
+5. Face Recognition
+  * Basic face recognition script using opencv.
+  
+5. Face Recognition
+  * Basic face recognition script using opencv.
