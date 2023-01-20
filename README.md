@@ -21,5 +21,5 @@ These are some interesting projects implemented in python modified from various 
 5. Face Recognition
   * Basic face recognition script using opencv.
   
-5. Face Recognition
-  * Basic face recognition script using opencv.
+5. Sudoku Bot
+  * Sudoku game implementation
